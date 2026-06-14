@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.h5
+
+.env
+venv/
+.venv/
+
+.DS_Store
