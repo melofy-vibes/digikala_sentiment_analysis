@@ -39,6 +39,13 @@ digikala_sentiment_analysis/
 ├── data/
 │   └── digikala_150k.csv
 │
+├── assets/
+│   ├── loss_accuracy_plot.png
+│   ├── Confidence_Distribution.png
+│   ├── ROC_Curve.png
+│   ├── BILSTM_Confusion_Matrix.png
+│   └── Comparison_of_sentiment_models.png
+│
 ├── final_best_lstm_model.keras
 │
 ├── data_collection.ipynb
